@@ -1,0 +1,13 @@
+First log in will be wth the admin user
+Username: admin
+Password: 123
+
+You can create other users (Author, Reviewer, Associate Editor) using sign up
+
+
+
+
+contact_info (Dont delete the admin user data with contact_id = 11. You should only edit it.)
+user (Dont delete the admin user data with id = 1. You should only edit it.)
+
+
